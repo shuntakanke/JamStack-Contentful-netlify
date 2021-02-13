@@ -47,7 +47,6 @@ export default function Index() {
       </div>
       <AccessSection {...accessObj} />
       <Footer />
-      <Graph />
     </>
   )
 }
