@@ -11,7 +11,7 @@ import {
   Subtitle,
   ImgWrap,
   Img,
-} from "./infoElements"
+} from "./InfoElements"
 
 const InfoSection = ({
   lightBg,
