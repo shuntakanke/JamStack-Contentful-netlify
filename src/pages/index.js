@@ -16,8 +16,6 @@ import AccessSection from "../components/AccessSection"
 import { accessObj } from "../components/AccessSection/Data"
 import Footer from "../components/Footer"
 
-import Graph from "../components/graph"
-
 import "../index.css"
 
 export default function Index() {
